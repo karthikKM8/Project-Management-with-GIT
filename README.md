@@ -1,1 +1,1 @@
-# Project-Management-with-Git
+# Project-Management-with-GIT
